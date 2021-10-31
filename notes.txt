@@ -1,0 +1,28 @@
+Name of the note 1.
+---end@of@section---
+1635695488
+---end@of@section---
+Text of the note.
+Spans multiple lines.
+---end@of@note---
+Name of the note 2.
+---end@of@section---
+1635695489
+---end@of@section---
+Text of the note.
+Spans multiple lines.
+---end@of@note---
+Name of the note 3.
+---end@of@section---
+1635695490
+---end@of@section---
+Text of the note.
+Spans multiple lines.
+---end@of@note---
+Name of the note 4.
+---end@of@section---
+1635695491
+---end@of@section---
+Text of the note.
+Spans multiple lines.
+---end@of@note---
